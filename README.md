@@ -3,7 +3,9 @@
 Kurulum Adımları:
 
 1- Webfiles Dosyalarınızı Sitenize Yükleyin.
-2- Projeyi Açın ve Viruselrahmi.h senddatawebstate nulun oraya sitenizin url sini girin  http://esrar.cc/loggerwebsate.php?34fd356ef5= gibi
+
+2- Projeyi Açın ve Viruselrahmi.h senddatawebstate nulun oraya sitenizin url sini girin http://esrar.cc/loggerwebsate.php?34fd356ef5= gibi
+
 3- derleyin , ve sonuca bakın .
 
 
